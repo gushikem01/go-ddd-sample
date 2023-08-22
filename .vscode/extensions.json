@@ -1,0 +1,27 @@
+{
+    "recommendations": [
+      "bradymholt.pgformatter",
+      "bufbuild.vscode-buf",
+      "christian-kohler.path-intellisense",
+      "davidanson.vscode-markdownlint",
+      "eamodio.gitlens",
+      "earthly.earthfile-syntax-highlighting",
+      "editorconfig.editorconfig",
+      "esbenp.prettier-vscode",
+      "exiasr.hadolint",
+      "foxundermoon.shell-format",
+      "golang.Go",
+      "googlecloudtools.cloudcode",
+      "HashiCorp.terraform",
+      "humao.rest-client",
+      "mhutchie.git-graph",
+      "ms-azuretools.vscode-docker",
+      "mutantdino.resourcemonitor",
+      "pbkit.vscode-pbkit",
+      "sleistner.vscode-fileutils",
+      "timonwong.shellcheck",
+      "visualstudioexptteam.vscodeintellicode",
+      "vivaxy.vscode-conventional-commits",
+      "wmaurer.change-case",
+    ]
+  }

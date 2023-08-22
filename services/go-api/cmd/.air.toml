@@ -1,0 +1,3 @@
+[build]
+cmd = 'go build -gcflags "all=-N -l" -o ./tmp/go-api/main ./services/go-api/cmd/main.go'
+full_bin = "dlv --listen=:2345 --headless=true --api-version=2 --accept-multiclient exec --continue ./tmp/go-api/main"

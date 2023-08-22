@@ -1,0 +1,43 @@
+{
+    "files.associations": {
+        ".env*": "plaintext",
+        ".secrets*": "plaintext",
+        "*ignore": "plaintext"
+    },
+    "editor.formatOnSave": true,
+    "[sql]": {
+        "editor.defaultFormatter": "bradymholt.pgformatter"
+    },
+    "[markdown]": {
+        "editor.defaultFormatter": "DavidAnson.vscode-markdownlint"
+    },
+    "[dockerfile]": {
+        "editor.defaultFormatter": "ms-azuretools.vscode-docker"
+    },
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "[yaml]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[go]": {
+        "editor.defaultFormatter": "golang.go"
+    },
+    "go.lintTool": "golangci-lint",
+    "go.lintFlags": [
+        "--fast"
+    ],
+    "go.testFlags": [
+        "-v"
+    ],
+    "go.addTags": {
+        "options": "",
+        "transform": "camelcase"
+    },
+}
